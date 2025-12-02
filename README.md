@@ -56,5 +56,5 @@ Where:
 
 ## 👨‍💻 Author
 
-**[Luiz Rosa]** *Power Systems Engineer | Python Developer* [[Link to your LinkedIn](https://www.linkedin.com/in/luiz-gustavo-rosa-12407536b/)]
+**[Luiz Rosa]** *Power Systems Engineer | Python Developer* [[LinkedIn](https://www.linkedin.com/in/luiz-gustavo-rosa-12407536b/)]
 

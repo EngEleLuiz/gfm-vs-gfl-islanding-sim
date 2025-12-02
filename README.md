@@ -51,3 +51,10 @@ Where:
 3.  Open `Microgrid_Dynamics_Sim.ipynb` and run all cells.
 
 ## 📁 Repository Structure
+├── Microgrid_Dynamics_Sim.ipynb # Main simulation notebook ├── simulation_results.png # Exported plot images ├── README.md # Documentation └── requirements.txt # Dependencies
+
+
+## 👨‍💻 Author
+
+**[Luiz Rosa]** *Power Systems Engineer | Python Developer* [[Link to your LinkedIn](https://www.linkedin.com/in/luiz-gustavo-rosa-12407536b/)]
+

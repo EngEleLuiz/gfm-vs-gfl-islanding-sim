@@ -40,19 +40,14 @@ Where:
 * $P_{set}$: Active Power Setpoint
 
 ## 🚀 How to Run
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/yourusername/microgrid-dynamics-python.git](https://github.com/yourusername/microgrid-dynamics-python.git)
-    ```
-2.  **Install dependencies:**
+1.  **Install dependencies:**
     ```bash
     pip install numpy matplotlib scipy jupyter
     ```
-3.  **Launch Jupyter:**
+2.  **Launch Jupyter:**
     ```bash
     jupyter notebook
     ```
-4.  Open `Microgrid_Dynamics_Sim.ipynb` and run all cells.
+3.  Open `Microgrid_Dynamics_Sim.ipynb` and run all cells.
 
 ## 📁 Repository Structure

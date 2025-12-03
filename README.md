@@ -15,21 +15,12 @@ The project contrasts two dominant control architectures:
 The simulation demonstrates the "Loss of Mains" event, highlighting the instability of GFL systems in weak/isolated grids versus the inherent stability of GFM controls.
 
 ## 📊 Simulation Results
-1.  **First 5000 points (Room Temp Random Walk)**
-  
-
-2. **Model Pulse Response**
+1.  **Inverter Dynamics: Grid Connected vs. Islanded**
+  <img width="977" height="782" alt="image" src="https://github.com/user-attachments/assets/71764994-28d5-4fac-9410-589ac8919577" />
 
 
-3.  **EKF vs True SoC (Convergence Test)**
-
-
-4. **LSTM Training Loss**
-
-
-5. **Deep Learning (LSTM) Estimation**
-
-
+2. **Simulated system**
+<img width="1003" height="652" alt="image" src="https://github.com/user-attachments/assets/19c497cd-3b4f-48cd-a53a-1ebcb7f4707f" />
 
 > **Key Observation:** The Grid-Following unit experiences rapid frequency drift upon islanding due to the loss of the PLL reference. The Grid-Forming unit instantly assumes the load, with frequency dynamics dictated by the virtual inertia constant ($J$) and damping ($D_p$).
 
